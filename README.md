@@ -1,0 +1,1 @@
+Trabalho apresentado para disciplina Alg2, consiste em usar arquivos binários para leitura e escrita de dados levando em consideração características do disco rígido, otimizando assim o tempo de acesso.
